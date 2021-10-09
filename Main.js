@@ -27,4 +27,6 @@ else(Simth-Andy-Jame)
 {
   Simth=Simth-Andy+7;
   Simth=Simth-Jame+10;
-}
+  console.log(Simth);
+  console.log(Jame);
+  console.log(Andy);
